@@ -13,3 +13,6 @@ Code for controlling RC car built with arduino (uno), HC-05 Bluetooth module and
 3. Adafruit Motor driver v1
 4. Four DC motors (I used 600 rpm)
 5. Companion Android app: [Arduino Car](https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar)
+
+## Motor diagram
+<img src="motor_diagram.jpg" width="400">
